@@ -7,4 +7,6 @@ git commit -m "<about the lesson tasks>"
 
 git push -u origin main
 
+# test the code in site
+
 
